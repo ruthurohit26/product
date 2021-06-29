@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+int a, b, x;
+cout << "Enter two integers: ";
+cin>>a>>b;
+
+x=a*b;
+
+cout<< "product"<< x;
+return 0;
+}   
